@@ -38,7 +38,7 @@ options:
   http_static:
     username: ''
     password: ''
-  ssl: true
+  ssl: false
   certfile: fullchain.pem
   keyfile: privkey.pem
   system_packages: []
